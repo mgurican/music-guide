@@ -24,6 +24,20 @@ Return to [[Home]] | [[Tone Presets]]
 | **Bridge Volume**| Humbucker | Coil Split (Voice 3) | Overwound, cutting single-coil |
 | **Bridge Tone** | Voice 1 (Modern) | Voice 2 (Passive) | High-output active vs. passive crunch |
 
+### Detailed Voicing Breakdown (Voice 1 vs Voice 2)
+
+**Voice 1: Modern Active (Knobs Down)**
+* **Sound Profile:** Aggressive, percussive, and highly compressed. This is the quintessential "modern metal" active pickup tone (a refined, clearer evolution of the classic EMG 81/85).
+* **EQ Curve:** Massive, tight low-end with slightly scooped lower-mids and a sharp boost in the upper-mids/presence. It is heavily contoured to make pick attack sound like breaking glass and palm mutes sound explosive.
+* **Compression:** High natural compression. It acts like a limiter, clamping down on your dynamics so that every note in a fast alternate-picked run or sweeping arpeggio is completely uniform in volume.
+* **Best Used For:** Metalcore (Trivium, Killswitch Engage), technical death metal, tight djent rhythms (where you need that immediate, surgical low-B response), and ultra-fluid, heavily saturated shred leads.
+
+**Voice 2: Passive / Organic (Tone Knobs Pulled Up)**
+* **Sound Profile:** Warm, vintage-voiced, and highly dynamic. It perfectly mimics the behavior and impedance of high-end, overwound passive pickups (similar to a Seymour Duncan JB, Pegasus, or classic PAFs). 
+* **EQ Curve:** Features a pronounced, throat-like midrange "bark" and "growl." The extreme, clinical highs are rolled off, removing the "fizz" of active pickups. The low-end is looser, blooming and breathing more naturally rather than hitting like a brick wall.
+* **Compression:** Very low compression. It reacts intimately to your picking hand. Pick lightly, and it cleans up beautifully; dig in hard, and it snarls. 
+* **Best Used For:** Classic hard rock (AC/DC, Guns N' Roses, Ozzy), doom/sludge metal where a looser, fuzzier low-end is desired, expressive bluesy solos, and rolling back the volume knob for crystal-clear, warm clean tones that never sound sterile.
+
 * **Replacement Options:** Plug-and-play swap with Fishman Fluence Modern/Abasi. For Seymour Duncan Pegasus/Sentient passive conversion, use Active Mount soapbar casings.
 
 ---
