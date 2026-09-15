@@ -4,18 +4,26 @@ Return to [[Home]] | [[Tone Presets]]
 
 ---
 
-## 1. Music Man Majesty 6-String (Kinetic Blue)
+## 1. Music Man Majesty 6-String (2019 Kinetic Blue)
 * **Tuning:** E-Standard (Floating tremolo balanced for 10-46 string set).
-* **Pickups:** Custom DiMarzio Illuminators + Piezo bridge system.
+* **Pickups:** DiMarzio Rainmaker (Neck) & Dreamcatcher (Bridge) + Piezo bridge system.
 * **Coil-Split Matrix:** Push-push tone pot activates coil splitting **only** when the 3-way toggle is in the center position (both pickups active, running inner coils in parallel).
+* **Gain Boost:** Push-push volume pot engages up to +20dB analog gain boost.
 
 ---
 
-## 2. Epiphone Matt Heafy Les Paul Custom 7-String
+## 2. Epiphone Matt Heafy Les Paul Custom Origins 7-String
 * **Tuning:** B-Standard 7-string metal rhythm guitar.
-* **Pickups:** Fishman Fluence Matt Heafy Custom Active Set.
-  * **Voice 1 (Active High Gain):** Ceramic bridge (punchy, percussive low B) / Alnico neck (fluid lead). Engaged when pots are down.
-  * **Voice 2 (Passive/Clean):** Pull Volume (Neck) or Pull Tone (Bridge) for organic, uncompressed response.
+* **Pickups:** Fishman Fluence Matt Heafy Custom Active Set (Alnico Neck / Ceramic Bridge).
+* **Push/Pull Controls & Voicings:**
+
+| Knob | Push (Down) | Pull (Up) | Tone Description |
+| :--- | :--- | :--- | :--- |
+| **Neck Volume** | Humbucker | Coil Split (Voice 3) | Crisp, hi-fi glassy single-coil |
+| **Neck Tone** | Voice 1 (Modern) | Voice 2 (Passive) | Active fluidity vs. passive warmth |
+| **Bridge Volume**| Humbucker | Coil Split (Voice 3) | Overwound, cutting single-coil |
+| **Bridge Tone** | Voice 1 (Modern) | Voice 2 (Passive) | High-output active vs. passive crunch |
+
 * **Replacement Options:** Plug-and-play swap with Fishman Fluence Modern/Abasi. For Seymour Duncan Pegasus/Sentient passive conversion, use Active Mount soapbar casings.
 
 ---
