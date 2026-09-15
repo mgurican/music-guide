@@ -5,7 +5,7 @@ Return to [[Home]] | [[Hardware & Routing]]
 ---
 
 ## 1. Mesa/Boogie Mark VII (90W Tube Head/Combo)
-* **Voicings:** Clean, Fat, Crunch, Mark VII, Mark IV, Extreme.
+* **Voicings (9 modes across 3 channels):** Clean, Fat, Crunch, Mark IIB, Mark IIC+, Mark IV, Mark VII.
 * **Features:** Graphic 5-band EQ, built-in CabClone IR engine, dry preamp line out.
 
 ## 2. Marshall JVM 410C (100W Tube Combo)

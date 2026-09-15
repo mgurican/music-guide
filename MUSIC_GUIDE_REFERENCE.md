@@ -492,7 +492,7 @@ An FX loop EQ acts as a master mastering console for your amplifier. It allows y
 **Minuses:**
 
 * **Learning Curve:** Blindly adjusting sliders without understanding frequency bands can easily ruin a world-class tone, causing phase cancellation or muddying the mix.
-* **Power Requirements:** Requires an 18V power supply for optimal headroom; it will not run off a standard 9V daisy chain.
+* **Power Requirements:** Requires a high-current 9V power supply (170mA+); it may introduce noise if run off a standard cheap daisy chain.
 
 ### Target Tone Parameters: Frequency Precision
 
@@ -2132,7 +2132,7 @@ The Radar has a parametric EQ. This is where you fix the "fake" sound of direct 
 ### 3.3 Power Supply & Grounding Safety
 * **Daisy Chaining Warning:** Daisy-chaining analog drive pedals (TS808, SD-1) with digital modulation/delays (Dreamscape, Radar) causes ground loop hum and floating potential (feeling electric current on cable jacks).
 * **Solution:** Use an isolated power supply with individual ground-isolated outputs, such as the **Harley Benton PowerPlant ISO-12 Pro**.
-* **18V Operation:** Only run pedals explicitly rated for 18V (like TC Spark) for extra clean headroom; DO NOT feed 18V to 9V-only digital pedals.
+* **9V Operation:** Your drive pedals (TS808, SD-1, TC Spark Mini) are 9V only. DO NOT feed them 18V or they will be permanently damaged.
 
 ================================================================================
 

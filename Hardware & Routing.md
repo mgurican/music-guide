@@ -33,4 +33,4 @@ Return to [[Home]] | [[Tone Presets]]
 
 * **Ground Loops & Floating Potential:** Running analog drives (TS808, SD-1) on the same daisy chain as digital DSP units (Dreamscape, Mooer Radar) produces high-frequency ground noise and stray current on cable jacks.
 * **Isolation Solution:** Use **Harley Benton PowerPlant ISO-12 Pro** with individually isolated transformer outputs.
-* **18V Headroom:** TC Spark Mini can run at 18V for increased clean headroom. Never supply 18V to 9V-only digital units.
+* **18V Headroom:** TC Spark Mini strictly requires 9V. Supplying 18V will destroy it. Never supply 18V to 9V-only digital units.

@@ -51,7 +51,7 @@ The Mark VII's legendary graphic EQ is placed *post-preamp* (similar to the FX L
 Frequencies: **80Hz | 240Hz | 750Hz | 2200Hz | 6600Hz**
 
 ### Setting 1: The "Classic V" (For Epiphone 7-String & Schecter)
-Best utilized with Mark IV or Extreme modes for tight, aggressive metal rhythm.
+Best utilized with Mark IV or Mark VII modes for tight, aggressive metal rhythm.
 * **80Hz:** +60% (Boost for chest-thumping lows and cabinet resonance)
 * **240Hz:** +10% to +15% (Slight boost for warmth; avoid pushing too high to keep the 7-string clear)
 * **750Hz:** -80% (Deep scoop. Removes the nasal "honk" of the pickups and opens up the metal tone)
