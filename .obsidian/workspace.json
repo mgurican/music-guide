@@ -170,12 +170,12 @@
               "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,7 +188,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "eaf7c359e3d958c7",
+  "active": "5052c5193ad51d1d",
   "lastOpenFiles": [
     "Home.md"
   ]

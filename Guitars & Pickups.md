@@ -10,6 +10,20 @@ Return to [[Home]] | [[Tone Presets]]
 * **Coil-Split Matrix:** Push-push tone pot activates coil splitting **only** when the 3-way toggle is in the center position (both pickups active, running inner coils in parallel).
 * **Gain Boost:** Push-push volume pot engages up to +20dB analog gain boost.
 
+### Detailed Voicing Breakdown (Dreamcatcher vs Rainmaker)
+
+**Bridge: DiMarzio Dreamcatcher (Ceramic)**
+* **Sound Profile:** "The Sing." Open, highly dynamic, and sensitive. It has a rounded, sweeter top end compared to traditional aggressive ceramics, allowing the natural "wood" resonance of the Majesty to cut through.
+* **EQ Curve:** Boosted upper-midrange for harmonic sensitivity (pinch harmonics jump off the fretboard) with powerful low-mids to avoid brittle highs or muddy lows. 
+* **Compression:** Low to moderate natural compression. Highly responsive to pick velocity, allowing you to "play the amp" dynamically. Rolls off beautifully using the volume knob.
+* **Best Used For:** Progressive metal (Modern Dream Theater), expansive classical/orchestral contexts (Beethoven/Rachmaninov style dynamics), and lush, glassy chords (Rush). 
+
+**Neck: DiMarzio Rainmaker (Alnico 5)**
+* **Sound Profile:** Glassy, articulate, and exceptionally "open." It avoids the boomy, muddy low-end that plagues many neck humbuckers.
+* **EQ Curve:** Balanced with a slight scoop in the lower-mids to maintain string-to-string clarity during fast sweeping or legato runs.
+* **Compression:** Very low compression, prioritizing expressive, breathy lead tones.
+* **Best Used For:** Fluid, expressive solos (Satriani-style liquid leads), complex chord voicings, and crystal-clear clean passages.
+
 ---
 
 ## 2. Epiphone Matt Heafy Les Paul Custom Origins 7-String
@@ -46,3 +60,32 @@ Return to [[Home]] | [[Tone Presets]]
 * **Tuning:** Alternate tunings (Drop D, Drop C#, Eb Standard).
 * **Pickups:** Upgraded with **DiMarzio Petrucci Set (LiquiFire neck / CrunchLab bridge)**.
 * **EVH D-Tuna:** To install EVH D-Tuna on floating Floyd Rose, install a bridge stabilizer (Tremol-No or stop block) first to prevent floating bridge angle shift when dropping E to D.
+
+### Detailed Voicing Breakdown (Crunch Lab vs LiquiFire)
+
+**Bridge: DiMarzio Crunch Lab (Ceramic)**
+* **Sound Profile:** "The Crunch." Aggressive, mid-heavy, and razor-sharp. Designed for maximum percussive authority and tight tracking.
+* **EQ Curve:** Massive spike in the low-mids to push the amplifier's front end hard. The highs are present but slightly rolled off to prevent ice-pick harshness, resulting in a thick, authoritative punch.
+* **Compression:** High natural compression. It acts to uniform the attack of fast down-picking and staccato riffs, providing a "wall of sound" density.
+* **Best Used For:** Heavy drop tunings (Tool), classic 90s/00s progressive metal (Images & Words / Awake era Dream Theater), and tight, aggressive thrash metal rhythm playing (Metallica).
+
+**Neck: DiMarzio LiquiFire (Alnico 5)**
+* **Sound Profile:** Fluid, vocal, and slightly darker. It has a distinct "tubular" quality that makes every note in rapid legato runs sound distinct rather than blurring together.
+* **EQ Curve:** Warm and mid-focused, with rolled-off highs to provide a smooth, singing sustain without harshness. 
+* **Compression:** Moderate compression that naturally sustains notes and smooths out the pick attack for effortless playing.
+* **Best Used For:** Blistering alternate picking runs, warm and woody clean tones, and creamy, sustaining blues/rock solos.
+
+---
+
+## 4. Guitar & Pickup Analysis: Majesty vs. Reaper vs. Heafy
+
+The combination of these three guitars provides a comprehensive tonal palette that covers everything from vintage hard rock to extreme modern progressive metal. Here is a comparative analysis of their strengths and weaknesses based on their construction and pickup voicings.
+
+| Feature / Guitar | Music Man Majesty (Dreamcatcher & Rainmaker) | Schecter Reaper-6 (Crunch Lab & LiquiFire) | Epiphone Heafy 7-String (Fishman Fluence Active) |
+| :--- | :--- | :--- | :--- |
+| **Primary Strength** | Unmatched dynamic range, harmonic clarity, and versatility. The most "hi-fi" and expressive instrument in your arsenal. | Maximum percussive authority, tight low-end tracking, and aggressive mid-range punch. | Modern high-gain discipline, absolute uniformity in fast picking, and extreme low-end tightness for 7-string extended range. |
+| **Primary Weakness** | Can sound overly "polite" or lack raw, unrefined aggression for old-school thrash or punk. | Highly compressed and unforgiving; exposes sloppy right-hand technique. Clean tones can be dark/warm. | Active compression limits dynamic expression. Can sound sterile or clinical in lower-gain settings (unless Voice 2 is engaged). |
+| **Output / Headroom** | Mid-High Output. High headroom allows the "wood" of the guitar to breathe. | High Output (Ceramic Bridge). Pushes the amplifier's preamp into saturation very early. | High Output (Active). Operates like a brick-wall limiter with explosive attack. |
+| **Rhythm Characteristic** | Broad, articulate, and complex. Excellent string-to-string separation for complex, ringing chords. | "Wall of sound." Dense, thick, and brutally tight for drop-tuned chugging. | Surgical precision. Instantaneous stops and starts for modern metalcore and djent. |
+| **Lead Characteristic** | Glassy, flutey, and highly sensitive to pick velocity and hand position. | Liquid, vocal, and heavily sustained. Effortless legato and fast alternate picking. | Searing, compressed, and uniform. Every note cuts through a dense mix perfectly. |
+| **Best Musical Context** | Progressive Metal (Modern Dream Theater), Rush, Satriani, Orchestral/Classical adaptations. | 90s/00s Prog (Early Dream Theater), Tool, Heavy Drop-Tuned Riffing, early Metallica. | Modern Metalcore, 7-String Tech Death, Drop-B Riffing, Trivium. |
