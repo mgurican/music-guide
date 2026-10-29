@@ -5,27 +5,32 @@
 ## 1. Master Rig Profile & Signal Chain
 
 ### Guitars
-* **Music Man Majesty 6-String (Kinetic Blue):** Primary E-Standard shred/progressive guitar. Floating piezo tremolo, custom push-push coil-splitting (active when center selector engages both pickups in parallel).
-* **Epiphone Matt Heafy Les Paul Custom 7-String:** Primary 7-string metal/rhythm guitar. Features Fishman Fluence Matt Heafy Custom active pickups (Voice 1 ceramic/alnico high-gain vs. Voice 2 passive/clean).
-* **Schecter Reaper-6:** Upgraded with **DiMarzio Petrucci Set (LiquiFire neck / CrunchLab bridge)**. Reserved for alternate tunings (Drop D, Drop C#, Eb Standard).
+* **Music Man Majesty 6-String (2019 Kinetic Blue):** Primary E-Standard shred/progressive guitar. 25.5" scale, Honduran Mahogany neck-through, **DiMarzio Rainmaker (Neck) & Dreamcatcher (Bridge)** + Music Man Piezo saddle system. Push-push Volume = +20dB active boost; Push-push Tone = parallel inner-coil split (**active only when the 3-way selector is in the middle position**). Dedicated Piezo out pairs with **TC Electronic BodyRez** (never use BodyRez on magnetic pickups).
+* **Epiphone Matt Heafy Les Paul Custom Origins 7-String:** Primary 7-string metal/rhythm guitar (25.5" extended scale, B-Standard / Drop A). Features **Fishman Fluence Matt Heafy Custom 7-String** pickups (**Alnico Neck / Ceramic Bridge**):
+  * **Voice 1 (Modern Active):** Volume & Tone knobs pushed **Down**.
+  * **Voice 2 (Passive / Organic):** Tone knobs pulled **Up** (Volume knobs Down).
+  * **Voice 3 (Single-Coil Split):** Volume knobs pulled **Up**.
+* **Schecter Reaper-6 FR:** Upgraded with **DiMarzio Petrucci Set (DP227 LiquiFire Neck / DP228 Crunch Lab Bridge — solid bar toward neck for fuller low-mids)**. Reserved for alternate tunings (**Drop D, Drop C#, D Standard, Eb Standard, DADGAD**).
 
 ### Amplifiers & Power Stages
-* **Mesa/Boogie Mark VII (90W Humbucker/Tube):** American high-gain precision, surgical tight low-end, built-in CabClone IR output.
-* **Marshall JVM 410C (100W Tube Combo):** British EL34 saturation, 4 channels x 3 modes (12 switchable voicings), built-in Silent Recording standby mode.
-* **Marshall DSL5C Combo:** Upgraded with Celestion Greenback speaker (5W/0.5W mode for bedroom attenuation).
+* **Mesa/Boogie Mark VII (90W / 45W / 25W Simul-Class Tube):** 3 channels, 9 modes, pre-distortion rotary tone stack + post-distortion 5-Band Graphic EQ, built-in internal reactive load (`SPEAKER OFF`), onboard **CabClone IR** (mounts via USB as a driverless flash drive; accepts **48kHz / 24-bit WAV** IRs across 8 global slots), and 1/4" **`LINE OUT (Dry)`** (tapped **post-power-amp** from the speaker/reactive load path).
+* **Marshall JVM 410C (100W EL34 Tube 2x12 Combo):** British EL34 saturation, 4 channels x 3 modes (12 switchable voicings), dual FX loops (set Loop 1 to **`100% Wet`** and **`-10dBV`** with digital pedals to prevent comb-filtering), and **Silent Recording** mode (leave `STANDBY` switch off to disable EL34 power tubes while keeping preamp & FX Send active without needing a load box).
+* **Marshall DSL5C Combo (Original 2012 Version):** 5W / 0.5W push-pull 12BH7/ECC99 tube combo upgraded with a **10" Celestion G10 Greenback** speaker. Features Volume-only Classic Gain channel and no onboard reverb. For silent recording, switch to **`0.5W Low Power`** mode (which engages the internal load) while powered OFF before unplugging the speaker.
 
-### Drive & Tone Shaping Pedals
-* **Ibanez TS808 Tube Screamer:** Tight mid-boost for Mesa Mark VII / JVM gain channels.
-* **Boss SD-1 Super Overdrive:** Asymmetrical clipping overdrive for classic British crunch & solo boost.
-* **TC Electronic Spark Mini:** Pure clean boost (up to +20dB) for kicking split-coil single coil outputs.
-* **TC Electronic HyperGravity Compressor:** Multiband digital compressor running MD3 algorithm (system 6000) for Petrucci 90s cleans & sustain.
-* **Boss EQ-200 Graphic Equalizer:** Dual 10-band EQ (Pre-amp boosting & FX Loop tone sculpting).
+### Drive, Compression & EQ Pedals
+* **TC Electronic HyperGravity Compressor:** Studio multiband digital compressor running the System 6000 MD3 algorithm. Controls: **`Sustain`, `Attack`, `Level`, `Blend`** + 3-way switch (**`Spectra` / `TonePrint` [Petrucci *TransComp* & *EverComp*] / `Vintage`**).
+* **Ibanez TS808 Tube Screamer:** Symmetrical silicon clipping with a `-6dB/oct` low-cut below `~720Hz` for tightening high-gain channels and sustaining lead lines.
+* **Boss SD-1 Super OverDrive:** Asymmetrical 3-diode silicon clipping generating gritty even-order harmonics for Marshall British crunch, Judas Priest/Ozzy boosts, and Jack White garage rock.
+* **TC Electronic Spark Mini:** Pure discrete analog clean boost (up to +20dB) with flat EQ; restores unity gain on single-coil splits (Heafy Voice 3).
+* **TC Electronic BodyRez:** Acoustic piezo enhancer (phase-aligned filters + compression) strictly for the Majesty's dedicated Piezo output.
+* **Boss EQ-200 Graphic Equalizer:** Dual 10-band EQ (`30Hz – 12.8kHz`) wired via 4-Cable Method (`STRUCT = PARA`, `LINK = OFF`, `MEM EXT = 1–4`): **Channel A** in front of the amp (pickup re-voicing & 7-string sub-bass cut) and **Channel B** in the FX Loop (post-preamp sculpting & `+3.5dB` solo boost), controlled via **Boss FS-7 / FS-6 / FS-5U** momentary footswitch.
 
-### Modulation, Delay & Monitoring
-* **TC Electronic Dreamscape:** John Petrucci signature chorus/flanger/phaser.
-* **Marshall Delay / TC Electronic Triple Delay:** Digital & analog delay modeling.
-* **Mooer Radar:** IR Cabinet Simulator (loaded with York Audio MRSH 412 M25 Greenbacks & MES 412 OS-V2).
-* **Rupert Neve Designs RNHP:** High-precision discrete headphone amplifier for silent monitoring.
+### Modulation, Delay, Silent Monitoring & Power
+* **TC Electronic The Dreamscape:** John Petrucci signature modulation (**2x Chorus, 2x Flanger, 2x Vibrato** + TonePrint).
+* **TC Electronic Flashback Triple Delay & Marshall Echohead EH-1:** Triple parallel/series studio delay (quarter + dotted-eighth) and warm analog/tape slapback.
+* **Mooer Radar:** 24-bit / **44.1kHz** IR Cabinet Loader (connects via **Micro-USB**; requires **12V DC @ 300mA**). Set **Power Amp Sim OFF** when fed from Mark VII `LINE OUT` (already post-power-amp), and **Power Amp Sim ON (`EL34`)** when fed from JVM `FX Send` in Standby mode. Loaded with **York Audio `MES 412 OS-V2`** (`Mix JP`, `Mix 01`, `Mix FRED`) & **`MRSH 412 M25` Greenbacks** (`Mix 08`, `Mix 01`, `Mix 09`).
+* **Rupert Neve Designs RNHP (Rupert Neve Headphone Precision Amplifier):** 24V reference headphone amp (`0.08Ω` output impedance). Connect Mooer Radar to **RNHP Input B (Unbalanced RCA, -10dBV)** using a **1/4" TRS Male to Dual RCA Male insert cable** (<3m)—never plug Radar TRS into RNHP Input A (Balanced TRS), which causes differential phase cancellation.
+* **Harley Benton PowerPlant ISO-12 Pro:** 12 transformer-isolated DC outputs (Ports 1–9: `9V @ 300mA`; Ports A–C: `9V/12V/18V @ 500mA`) eliminating ground-loop hum and Y-capacitor floating cable leakage current.
 
 ================================================================================
 
@@ -2115,43 +2120,45 @@ The Radar has a parametric EQ. This is where you fix the "fake" sound of direct 
 
 ### 3.1 Silent Monitoring Signal Chain (Studio Grade)
 ```
-[Guitar] -> [Drive Board: TS808 / SD-1 / Spark / HyperGravity]
-         -> [Mesa Mark VII / JVM410C Preamp Line Out (Dry)]
-         -> [Mooer Radar (Power Amp Sim OFF + York Audio IR Loaded)]
-         -> [Rupert Neve RNHP Headphone Amp (Balanced/TRS In)]
-         -> [High-End Headphones]
+[Guitar] -> [Front Board: HyperGravity -> SD-1 -> TS808 -> Spark Mini -> EQ-200 Ch A]
+         -> [Amp Input: Mesa Mark VII (SPEAKER OFF -> LINE OUT) OR Marshall JVM 410C (Standby -> FX Send)]
+         -> [FX Loop Board: EQ-200 Ch B -> Dreamscape -> Triple Delay]
+         -> [Mooer Radar (Mark VII = Power Amp Sim OFF | JVM Standby = Power Amp Sim ON [EL34] + York Audio IR)]
+         -> [1/4" TRS Male to Dual RCA Male Cable (<3m) -> Rupert Neve RNHP INPUT B (RCA -10dBV)]
+         -> [Reference Studio Headphones]
 ```
-* **Note on Mesa Dry Line Out:** Tapped directly after preamp before power tubes.
-* **Note on JVM Silent Recording:** Set Standby switch to 'Silent Recording' position to disengage power amp output while keeping FX Loop/Preamp active.
+* **Note on Mesa `LINE OUT (Dry)`:** Tapped **post-power-amp** (directly off the speaker / internal reactive load path after the Simul-Class 6L6 power tubes and output transformer). Therefore, keep Mooer Radar Power Amp Sim **OFF**.
+* **Note on JVM Silent Recording:** Leaving the `STANDBY` switch in the OFF/Standby position disengages high voltage from the EL34 power tubes while keeping the preamp and FX Loop active without needing a load box. Because the power amp is bypassed, turn Mooer Radar Power Amp Sim **ON (`EL34`)**.
+* **Note on RNHP Input B vs Input A:** Never plug the Mooer Radar's dual-mono TRS output into a single RNHP **Input A (Balanced TRS)** jack—the differential balanced circuit subtracts Ring from Tip (`Tip - Ring = 0`), causing phase cancellation. Always use a **1/4" TRS-to-Dual-RCA cable into Input B**.
 
-### 3.2 Boss EQ-200 Dual Signal Routing
-* **Pre-Amp Mode (Channel A):** Placed between TS808/SD-1 and Amp Input. Use to cut low frequencies (80Hz - 160Hz) before gain stage to tighten low-end response.
-* **FX Loop Mode (Channel B):** Placed in JVM410C FX Loop. Use to shape final post-distortion tone (boost 1.6kHz - 3.2kHz for lead solos, slight 400Hz dip for modern scoop).
-* **Foot Control:** Use Boss FS-6 / FS-7 to switch between Channel A / Channel B or cycle saved presets.
+### 3.2 Boss EQ-200 Dual Signal Routing (4-Cable Method)
+* **Menu Configuration:** Set `STRUCT = PARA` (isolates Channel A and Channel B into two independent mono paths), `LINK = OFF`, `MEM EXT = 1–4` (loops presets 1–4 without clicking 127 times), `C1 FNC = A ON/OFF`, `C2 FNC = B ON/OFF`.
+* **Pre-Amp Mode (Channel A):** Placed between drives and Amp Input. Cuts sub-bass (`30Hz – 120Hz`) on 7-strings and drop tunings before tube distortion, or applies the Jack White "AM Radio" bandpass filter.
+* **FX Loop Mode (Channel B):** Placed in the amp's FX Loop (set JVM Loop `MIX = 100% Wet` and `-10dBV`, keeping Channel Volumes at `9:00–11:00`). Shapes post-distortion tone and provides a `+3.5dB` mid-pushed solo boost.
 
 ### 3.3 Power Supply & Grounding Safety
-* **Daisy Chaining Warning:** Daisy-chaining analog drive pedals (TS808, SD-1) with digital modulation/delays (Dreamscape, Radar) causes ground loop hum and floating potential (feeling electric current on cable jacks).
-* **Solution:** Use an isolated power supply with individual ground-isolated outputs, such as the **Harley Benton PowerPlant ISO-12 Pro**.
-* **9V Operation:** Your drive pedals (TS808, SD-1, TC Spark Mini) are 9V only. DO NOT feed them 18V or they will be permanently damaged.
+* **Daisy Chaining & "Electric Tingle" (`Y-Capacitor` Leakage):** Daisy-chaining analog drive pedals with digital DSP pedals (EQ-200, Dreamscape, Triple Delay, Radar) causes digital clock whine and ground loops. Furthermore, ungrounded 2-prong wall-warts leak a tiny AC current (~0.1–0.25mA) across their internal EMI Y-capacitor onto floating guitar cable sleeves when unplugged from a grounded amp.
+* **Solution:** Power the board with the **Harley Benton PowerPlant ISO-12 Pro** (Ports 1–9: `9V @ 300mA`; Port A: `9V @ 500mA` for Triple Delay; Port B: **`12V @ 500mA` for Mooer Radar**) and keep the rig connected to a grounded 3-prong amplifier.
+* **9V Operation:** All pedals on the board except the **Mooer Radar (12V)** are **strictly 9V only**. Never feed them 18V.
 
 ================================================================================
 
 ## 4. Pickup Specifications & Guitar Calibration
 
-### 4.1 Epiphone Matt Heafy 7-String Pickup System
-| Spec | Neck Pickup (Alnico) | Bridge Pickup (Ceramic) |
+### 4.1 Epiphone Matt Heafy 7-String Pickup System (25.5" Scale)
+| Control State | Neck Pickup (Alnico) | Bridge Pickup (Ceramic) |
 | --- | --- | --- |
-| **Voice 1 (Active)** | Modern Active High Output (Fluid, warm lead) | Modern Active High Output (Tight, percussive rhythm) |
-| **Voice 2 (Passive/Custom)** | Clean, crisp, organic neck tone | Crisp, hot passive ceramic punch |
-| **Engagement** | Pull Volume Knob | Pull Tone Knob |
+| **Voice 1 (Modern Active)** — *Vol & Tone Down* | High-output active Alnico (fluid, compressed, articulate) | High-output active Ceramic (surgical low-B tightness, high compression) |
+| **Voice 2 (Passive / Organic)** — *Tone Pulled Up* | Warm, dynamic vintage PAF-style neck bloom | Throaty, uncompressed passive ceramic midrange roar (Maiden/Priest) |
+| **Voice 3 (Single-Coil Split)** — *Volume Pulled Up* | Crisp, glassy, hum-free single-coil chime | Overwound, cutting Strat-style single-coil bite (Deep Purple) |
 
 ### 4.2 Replacement Pickup Options for 7-String
-* **Direct Plug & Play Active Swap:** Fishman Fluence Modern 7 / Abasi 7 (uses same wiring harness).
-* **Passive Conversion Swap:** Seymour Duncan Pegasus / Sentient (Active Mount Soapbar Casing fits EMG 707 route without body modification; requires gutting active pots/battery).
+* **Direct Plug & Play Active Swap (Zero Soldering):** **Fishman Fluence Tosin Abasi 7**, **Javier Reyes 7**, or **Killswitch Engage 7** (uses the exact same 707 soapbar footprint and rear Molex quick-connect harness).
+* **Passive Soapbar Conversion Swap:** **Seymour Duncan Pegasus / Sentient 7 (Active Mount Soapbar Casing)** fits the EMG 707 route directly; requires replacing the four active `25kΩ` pots with **4x `500kΩ` long-shaft push/pull pots** and `.022µF` capacitors (or use 7-string soapbar adapter rings to mount **DiMarzio Crunch Lab 7 / LiquiFire 7** or **Dreamcatcher 7 / Rainmaker 7**).
 
-### 4.3 Schecter Reaper-6 Tuning & D-Tuna Setup
-* **Pickups:** Upgraded with DiMarzio Petrucci Set (LiquiFire Neck / CrunchLab Bridge). Stock pots (500k) are compatible.
-* **EVH D-Tuna Note:** Floating Floyd Rose bridges require a tremolo stabilizer (like Tremol-No or wood block) before installing EVH D-Tuna to prevent bridge angle shift when dropping to D.
+### 4.3 Schecter Reaper-6 Tuning, Crunch Lab Orientation & D-Tuna Setup
+* **Pickups & Bar Orientation:** Upgraded with **DiMarzio Petrucci Set (LiquiFire Neck / Crunch Lab Bridge)**. Install the Crunch Lab with the **solid bar toward the neck** (Petrucci's spec) for fuller low-mid warmth on the Swamp Ash body, or toward the bridge for a brighter, tighter percussive click. Stock `500kΩ` pots are compatible (CTS/Bourns `500kΩ` audio taper recommended).
+* **EVH D-Tuna Note:** Because the Reaper-6 FR has a recessed floating Floyd Rose cavity, installing an EVH D-Tuna requires blocking the bridge for **dive-only** operation (via a **Tremol-No** or **brass tremolo stopper**) so dropping the 6th string from E to D does not pull the remaining 5 strings sharp or hit the recessed body wood.
 
 ================================================================================
 
