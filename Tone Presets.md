@@ -9,7 +9,7 @@ Return to [[Home]] | [[Amplifiers & Cabinets]] | [[Hardware & Routing]] | [[EQ G
 | Song / Artist | Guitar & Pickup Config | Tuning | Amp, Channel & Mode | Front-End Pedals (Pre-Amp) | FX Loop & Post-EQ | Cabinet IR Choice |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Jack White** (*"You'll Never Fix Me"* — *Frozen Charlotte*) | Majesty (Middle Split, Vol 7, Tone 6) or Reaper (Neck Split, Vol 7) | E Standard | **Marshall JVM 410C** — Crunch (`Orange`) | **EQ-200 Ch A** ("AM Radio" Filter) + **Boss SD-1** (`Drive: 8`, `Level: 7`, `Tone: 6`) | None (Dry, zero reverb/delay) | `York MRSH 412 M25` (`Mix 08`) |
-| **Jack White** (*"Thick as Thieves"* — *Frozen Charlotte*) | Majesty (Middle Split, Vol 7, Tone 6) | E Standard | **Marshall JVM 410C** — Crunch (`Red`) | **Spark Mini** (`+6dB`) -> **EQ-200 Ch A** (AM Filter) -> **TS808** (`Drive: 3`) **STACKED into SD-1** (`Drive: 8`) | None (Chaotic square-wave garage fuzz) | `York MRSH 412 M25` (`Mix 08`) |
+| **Jack White** (*"Thick as Thieves"* — *Frozen Charlotte*) | Majesty (Middle Split, Vol 7, Tone 6) | E Standard | **Marshall JVM 410C** — Crunch (`Red`) | **EQ-200 Ch A** (AM Filter) -> **Boss SD-1** (`Drive: 8`) **STACKED into TS808** (`Drive: 3`) -> **Spark Mini** (`+6dB`) | None (Chaotic square-wave garage fuzz) | `York MRSH 412 M25` (`Mix 08`) |
 | **Shinedown** (*"Thick as Thieves"* — *Threat to Survival*) | Heafy 7 (Voice 1) or Reaper (Crunch Lab) | Drop D / E Standard | **Marshall JVM 410C** — OD1 (`Orange`) *or* **Mark VII** — Ch 3 (`Mark IV`) | **Ibanez TS808** (`Level: 10`, `Drive: 0`, `Tone: 5.5`) | **EQ-200 Ch B** (+2dB at 120Hz & 3.2kHz) or Mesa Classic V | `York MES 412 OS-V2` (`Mix 01`) |
 | **Dream Theater** (*"Pull Me Under"* / *"Take The Time"* Clean) | Majesty 6 (Center Toggle + Tone Push-Push = Parallel Inner Coils + 30% Piezo) | E Standard | **Mesa Mark VII** — Ch 1 (`Clean` or `Fat`) | **TC HyperGravity** (`Spectra`, `Sustain: 1:30`, `Attack: 10:00`, `Blend: 70%`) + **TC BodyRez** (on Piezo) | **EQ-200 Ch B** (Studio Clean) + **TC Dreamscape** (`Chorus 1`) + **Triple Delay** (`450ms`) | **Mark VII Slot 6** (`2x12 Lone Star`) or `YA MTCH 212` |
 | **Dream Theater** (*Petrucci Core Heavy Rhythm*) | Majesty (Dreamcatcher Bridge) or Reaper (Crunch Lab) | E Standard / B Standard (Heafy) | **Mesa Mark VII** — Ch 3 (`Mark IIC+` or `Mark IV`) | **Ibanez TS808** (`Level: 10`, `Drive: 0`, `Tone: 5.0`) + **EQ-200 Ch A** (if 7-String) | **Mark VII 5-Band EQ:** Classic V (`80Hz: +70%`, `750Hz: -75%`, `2200Hz: +55%`) | `York MES 412 OS-V2` (`Mix JP` — Slot 8) |
@@ -21,7 +21,7 @@ Return to [[Home]] | [[Amplifiers & Cabinets]] | [[Hardware & Routing]] | [[EQ G
 | **Tool** (Adam Jones — *"Schism"*, *"Jambi"*, *"Lateralus"*) | Schecter Reaper-6 (Crunch Lab Bridge; Vol rolled to 4 for `"Schism"` intro) | **Drop D** (`D-A-D-G-B-E`) | **Mesa Mark VII** — Ch 2 (`Crunch`) *or* **JVM 410C** — Crunch (`Red`) | **Unboosted** (or **EQ-200 Ch A** `+2dB @ 800Hz` with sub-cut; `HyperGravity` for clean interlude) | **Mark VII 5-Band EQ:** Flat-Mid Growl (`80Hz: +60%`, **`750Hz: -10%`**, `2200Hz: +45%`) + **Dreamscape Flanger** | `York MES 412 OS-V2` (`Mix FRED` — Slot 7) |
 | **Iron Maiden** (Murray / Smith Dual Attack & *"Wasted Years"*) | Heafy 7 (**Voice 2 Passive** — Tone Pulled Up) or Reaper | E Standard | **Marshall JVM 410C** — OD1 (`Green`) or Crunch (`Red`) | **None for Rhythm** (or **Boss SD-1** `Level: 8, Drive: 1.5` for leads; `HyperGravity` on *"Wasted Years"* intro) | **EQ-200 Ch B** (British NWOBHM Push: `+3dB @ 120Hz, 800Hz, 1.6kHz`) + **Triple Delay** (`320ms`) | `York MRSH 412 M25` (`Mix 08`) |
 | **Judas Priest** (*"Painkiller"* / *"Electric Eye"*) | Schecter Reaper-6 (Crunch Lab Bridge) or Heafy 7 (Voice 1/2) | E Standard | **Marshall JVM 410C** — OD1 (`Orange` or `Red`) | **Boss SD-1** (`Level: 10`, `Drive: 1.0`, `Tone: 6.5` — razor-sharp asymmetrical mid spike) | **EQ-200 Ch B** (`+2dB @ 120Hz`, `+3dB @ 1.6kHz & 3.2kHz`) | `York MRSH 412 M25` (`Mix 08`) or `YA MES 412` |
-| **Deep Purple** (*"Highway Star"* & *"Perfect Strangers"*) | Heafy 7 (**Voice 3 Single-Coil Split** — Vol Pulled Up) | E Standard | **Marshall JVM 410C** — Crunch (`Orange`) | **TC Spark Mini** (`+5dB`) + **Boss SD-1** (`Level: 7.5`, `Drive: 2.5`, `Tone: 6.0`) | **EQ-200 Ch B** (`+2dB @ 1.6kHz`) + **Marshall Echohead** (`Tape Echo: 120ms` slapback) | `York MRSH 412 M25` (`Mix 08`) |
+| **Deep Purple** (*"Highway Star"* & *"Perfect Strangers"*) | Heafy 7 (**Voice 3 Single-Coil Split** — Vol Pulled Up) | E Standard | **Marshall JVM 410C** — Crunch (`Orange`) | **Boss SD-1** (`Level: 7.5`, `Drive: 3.5`, `Tone: 6.0`) -> **TC Spark Mini** (`+5dB` post-SD-1 voltage lift into amp) | **EQ-200 Ch B** (`+2dB @ 1.6kHz`) + **Marshall Echohead** (`Tape Echo: 120ms` slapback) | `York MRSH 412 M25` (`Mix 08`) |
 | **Joe Satriani** (*"Surfing with the Alien"* / *"Always With Me..."*) | Majesty 6 (Rainmaker Neck / Dreamcatcher) or Reaper (LiquiFire) | E Standard | **Marshall JVM 410C** — OD1 (`Orange`) *or* **Mark VII** — Ch 3 (`Mark IV`) | **TC HyperGravity** (*TransComp*) + **Ibanez TS808** (`Level: 9`, `Drive: 2`, `Tone: 5`) | **EQ-200 Ch B** (`+3.5dB` Mid Push) + **TC Triple Delay** (Dual `380ms` + `510ms` stereo pan) | `York MRSH 412 M25` (`Mix 01`) |
 | **Rush** (Alex Lifeson — *"The Spirit of Radio"* & *Moving Pictures*) | Majesty 6 (Bridge Humbucker & Center Coil-Split) | E Standard | **Marshall JVM 410C** — Clean (`Green` / `Orange`) & Crunch (`Green`) | **TC HyperGravity** (`Vintage` mode) + **Ibanez TS808** (`Drive: 6`, `Level: 6` into Clean/Edge channel) | **TC Dreamscape** (`Chorus 1` / `Flanger 1`) + **Echohead** (`115ms` slapback) | `York MRSH 412 M25` (`Mix 01`) |
 | **Ozzy Osbourne** (Zakk Wylde — *"Mama, I'm Coming Home"*) | Schecter Reaper-6 (LiquiFire Neck Clean / Crunch Lab Bridge Heavy) | **Eb Standard** (`Eb-Ab-Db-Gb-Bb-Eb`) | **Marshall JVM 410C** — Clean (`Green`) & OD1 (`Orange`) | **Boss SD-1** (`Level: 9.5`, `Drive: 2.0`, `Tone: 5.5` — classic Zakk Wylde front-end slam) | **TC Dreamscape** (`Chorus 2` wide stereo on both Clean & Heavy!) | `York MRSH 412 M25` (`Mix 01`) |
@@ -44,11 +44,11 @@ Return to [[Home]] | [[Amplifiers & Cabinets]] | [[Hardware & Routing]] | [[EQ G
   * **Drive Pedal:** **Boss SD-1** -> `Level: 7.0` | `Tone: 6.0` | **`Drive: 8.0`** (pushes asymmetrical silicon clipping into jagged, uneven breakup).
 * **Track B — *"Thick as Thieves"* (Stacked Square-Wave Velcro Fuzz):**
   * **Amplifier:** **Marshall JVM 410C — Crunch Channel (`Red Mode`)** -> `Gain: 4.0` | `Bass: 5.0` | `Mid: 7.0` | `Treble: 5.0` | `Presence: 6.0`.
-  * **4-Pedal Front-End Stack (All ON Simultaneously):**
-    1. **TC Spark Mini:** `+5dB` (restores split-coil unity gain into the filter).
-    2. **Boss EQ-200 Ch A:** "AM Radio" mid-spike curve above.
-    3. **Ibanez TS808:** `Level: 10` | `Tone: 5.0` | `Drive: 3.0` *(symmetrical mid-slam feeding directly into...)*
-    4. **Boss SD-1:** `Level: 7.0` | `Tone: 6.0` | **`Drive: 8.0`** *(cascading symmetrical -> asymmetrical diodes clips the waveform flat like a vintage fuzz box)*.
+  * **4-Pedal Front-End Stack (In Your Board's Exact Physical Order — All ON):**
+    1. **Boss EQ-200 Ch A:** "AM Radio" mid-spike curve above *(chokes the guitar signal into a narrow 400Hz–1.6kHz band before hitting the clipping diodes)*.
+    2. **Boss SD-1:** `Level: 7.0` | `Tone: 6.0` | **`Drive: 8.0`** *(asymmetrical silicon clipping feeding into...)*
+    3. **Ibanez TS808:** `Level: 10` | `Tone: 5.0` | `Drive: 3.0` *(symmetrical clipping chops the peaks flat into a square wave)*
+    4. **TC Spark Mini:** `+5dB` *(placed **last** after the drives so its linear headroom boosts the final voltage into the amp without being clamped by the SD-1/TS808 diodes)*.
 * **Cabinet IR:** **`York Audio MRSH 412 M25` (`Mix 08` — Greenbacks)**.
 
 ---
@@ -172,9 +172,9 @@ Return to [[Home]] | [[Amplifiers & Cabinets]] | [[Hardware & Routing]] | [[EQ G
   * [[Guitars & Pickups#2. Epiphone Matt Heafy Les Paul Custom Origins 7-String|Epiphone Matt Heafy 7]]: Pull **Bridge Volume UP (`Voice 3 Single-Coil Split`)** (switch to Neck Volume Pulled Up for fluid neoclassical solo passages).
 * **Amplifier Settings (Marshall JVM 410C):**
   * **Channel:** **Crunch Channel (`Orange Mode`)** -> `Gain: 5.0` | `Bass: 5.5` | `Mid: 7.0` | `Treble: 6.5` | `Presence: 6.5` | `Resonance: 6.0`.
-* **Pedal Dial-In:**
-  * **TC Spark Mini:** `+5dB` (or **EQ-200 Ch A** `Level: +5dB`) to compensate for the single-coil split output drop.
-  * **Boss SD-1:** `Level: 7.5` | `Drive: 2.5` | `Tone: 6.0` (emulates Blackmore's Aiwa reel-to-reel tape preamp boost).
+* **Pedal Dial-In (In Exact Signal Chain Order: `SD-1 -> Spark Mini -> Amp`):**
+  * **Boss SD-1:** `Level: 7.5` | `Drive: 3.5` | `Tone: 6.0` (adds asymmetrical harmonic grit to the single-coil signal).
+  * **TC Spark Mini (Placed *After* SD-1):** `+5dB` (or **EQ-200 Ch A** `Level: +5dB` after SD-1). Because the SD-1's silicon diodes clamp signal peaks to a fixed ceiling (`~0.6V / 1.2V`), placing the Spark Mini **after** the SD-1 is what actually lifts the output voltage hitting the Marshall JVM's V1 preamp tube (emulating Blackmore's Aiwa tape preamp).
   * **Marshall Echohead (FX Loop):** `Tape Echo` mode, `120ms` single slapback repeat, `Mix: 10:00`.
 * **Cabinet IR:** **`York Audio MRSH 412 M25` (`Mix 08`)**.
 

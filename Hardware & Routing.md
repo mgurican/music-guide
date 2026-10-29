@@ -9,7 +9,7 @@ Return to [[Home]] | [[Amplifiers & Cabinets]] | [[EQ Guide]] | [[Silent Practic
 Your front-of-amp pedalboard chain conditions dynamics, acoustic piezo resonance, and pre-distortion frequency curves before hitting the amplifier's V1 input tube:
 
 ```
-[Guitar] ──> [TC HyperGravity] ──> [Boss SD-1] ──> [Ibanez TS808] ──> [TC Spark Mini] ──> [Boss EQ-200 Ch A] ──> [Amp Input]
+[Guitar] ──> [Dunlop Dimebag Wah ] ──> [Boss EQ-200 Ch A] ──> [TC HyperGravity] ──> [Boss SD-1] ──> [Ibanez TS808] ──> [TC Spark Mini] ──> [Amp Input]
 (Dedicated Majesty Piezo Out) ──> [TC BodyRez] ──> [Clean Amp / Acoustic Input]
 ```
 
@@ -94,13 +94,14 @@ To place pre-gain filters/drives in front of the amplifier while routing post-ga
    │
    ▼  (Cable 1: Guitar -> Pedalboard Input)
 [Pedalboard Front Section]
+   ├── Dunlop Dimebag Cry Baby From Hell Wah (DB01)
+   ├── Boss EQ-200 [INPUT A ──> OUTPUT A] (Pickup Re-Voicing & Sub-Bass Cut)
    ├── TC Electronic HyperGravity Compressor
    ├── Boss SD-1 Super OverDrive
    ├── Ibanez TS808 Tube Screamer
-   ├── TC Electronic Spark Mini Booster
-   └── Boss EQ-200 [INPUT A ──> OUTPUT A] (Pre-Amp Tightening / Pickup Voicing)
+   └── TC Electronic Spark Mini Booster (Final Analog Voltage Lift into V1 Tube)
    │
-   ▼  (Cable 2: EQ-200 Out A -> Amplifier Front Input)
+   ▼  (Cable 2: Spark Mini Out -> Amplifier Front Input)
 [AMPLIFIER INPUT (Mesa Mark VII / Marshall JVM 410C)]
    │
    [PREAMP GAIN STAGES & PRE-DISTORTION TONE STACK]
@@ -153,6 +154,7 @@ The **Harley Benton PowerPlant ISO-12 Pro** uses **12 individually transformer-i
 | **Marshall Echohead EH-1** | **9V DC** (Center Negative) | ~70 mA | **Port 6** (9V @ 300mA) | **Strictly 9V ONLY.** |
 | **TC Electronic The Dreamscape** | **9V DC** (Center Negative) | ~100 mA | **Port 7** (9V @ 300mA) | **Strictly 9V ONLY.** |
 | **Boss EQ-200 Graphic EQ** | **9V DC** (Center Negative) | **170 mA** | **Port 8** (9V @ 300mA) | **Strictly 9V ONLY.** High-current DSP easily handled by the 300mA port. |
+| **Dunlop Dimebag Wah (DB01)** | **9V DC** (Center Negative) | ~3 mA | **Port 9** (9V @ 300mA) | **Keep at 9V.** Analog inductor wah; isolating it on Port 9 prevents inductor hum pickup. |
 | **TC Flashback Triple Delay** | **9V DC** (Center Negative) | **300 mA** | **Port A (set to 9V @ 500mA)** | **Strictly 9V ONLY.** Use a 500mA port so startup inrush current never browns out. |
 | **Mooer Radar IR Loader** | **12V DC** (Center Negative) | **300 mA** | **Port B (set to 12V @ 500mA)** | **REQUIRES 12V DC.** Set Port B dip-switch to **12V** (mark cable with red tape so it is never plugged into a 9V pedal!). |
 

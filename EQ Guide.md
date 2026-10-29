@@ -34,8 +34,8 @@ A common misconception in the Boss manual is the naming of the **`STRUCTURE`** p
   * **Channel B (`INPUT B -> OUTPUT B`):** Lives **inside the amplifier's FX Loop** (Post-Distortion Studio Console EQ & Solo Volume Boost).
 
 ```
-[GUITAR / DRIVES] ──> [IN A] Boss EQ-200 Channel A (Pre-Amp) [OUT A] ──> [AMPLIFIER INPUT]
-                                                                               │ (Tube Preamp Gain)
+[GUITAR] ──> [WAH] ──> [IN A] Boss EQ-200 Channel A (Pre-Amp) [OUT A] ──> [COMP / DRIVES / SPARK] ──> [AMPLIFIER INPUT]
+                                                                                                         │ (Tube Preamp Gain)
 [AMPLIFIER FX SEND] ──> [IN B] Boss EQ-200 Channel B (FX Loop) [OUT B] ──> [MODULATION / DELAY] ──> [AMP FX RETURN]
 ```
 

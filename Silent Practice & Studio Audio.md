@@ -11,7 +11,7 @@ Practicing through 90W–100W high-gain tube amplifiers with reference studio he
 ### The Reference Signal Path (Mesa Mark VII vs. Marshall JVM 410C)
 
 ```
-[Guitar] ──> [Front Pedalboard: HyperGravity -> SD-1 -> TS808 -> Spark Mini -> EQ-200 Ch A]
+[Guitar] ──> [Front Pedalboard: Dimebag Wah -> EQ-200 Ch A -> HyperGravity -> SD-1 -> TS808 -> Spark Mini]
    │
    ▼
 [Amplifier Input & Tube Preamp / Power Section]
